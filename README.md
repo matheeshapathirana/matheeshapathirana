@@ -21,11 +21,15 @@
 <p align="center">
 <a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshapathirana&stroke=a855f7&background=000000&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></a></p>
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app//api?username=matheeshapathirana&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=matheeshapathirana&layout=compact&langs_count=8&theme=tokyonight)
+<p align="center">
+<a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-stats-sigma-five.vercel.app//api?username=matheeshapathirana&show_icons=true&theme=tokyonight" /></a></a></p>
+
+<p align="center">
+<a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-stats.vercel.app//api/top-langs/?username=matheeshapathirana&layout=compact&langs_count=8&theme=tokyonight" /></a></a></p>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=matheeshapathirana&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+<a href="http://www.github.com/matheeshapathirana"><img src="https://github-profile-trophy.vercel.app/?username=matheeshapathirana&theme=onedark&no-frame=false&no-bg=false&margin-w=4" /></a></a></p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
