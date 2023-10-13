@@ -21,10 +21,16 @@
 # 📊GitHub Stats :
 
 <p align="center">
-<a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-stats-sigma-five.vercel.app//api?username=matheeshapathirana&show_icons=true&theme=tokyonight" /></a></a></p>
+<a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-stats-sigma-five.vercel.app//api?username=matheeshapathirana&show_icons=true&theme=tokyonight&bg_color=0D1117" /></a></a></p>
 
 <p align="center">
-<a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-stats.vercel.app//api/top-langs/?username=matheeshapathirana&layout=compact&langs_count=8&theme=tokyonight" /></a></a></p>
+<a href="http://www.github.com/matheeshapathirana"><img src="https://github-readme-stats.vercel.app//api/top-langs/?username=matheeshapathirana&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117" /></a></a></p>
+
+<p align="center">
+    <a href="https://github.com/matheeshapathirana/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathmin Januth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshapathirana&theme=tokyonight&background=0D1117"/>
+    </a>
+</p>
 
 ## 🏆GitHub Trophies
 <p align="center">
