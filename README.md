@@ -28,7 +28,7 @@
 
 <p align="center">
     <a href="https://github.com/matheeshapathirana/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathmin Januth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshapathirana&theme=tokyonight&background=0D1117"/>
+        <img alt="Matheesha Pathirana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshapathirana&theme=tokyonight&background=0D1117"/>
     </a>
 </p>
 
