@@ -9,7 +9,7 @@
 <a href="https://discord.gg/RSCdKeKB5X"><img src="https://discord.com/api/guilds/1121457935822901278/widget.png?style=banner2"></a>
 <div align="center">
   <a width="100%" href="https://discord.gg/RSCdKeKB5X"  target="_blank">
-    <img align="left" height="40%" width="40%" style="margin: 0 10px 0 0;" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-1/975373598778875924.png">
+    <img align="left" height="40%" width="40%" style="margin: 0 10px 0 0;" alt="Discord Profile" src="https://discord.c99.nl/widget/theme-2/975373598778875924.png">
   </a>
 </div>
 <br></br>
