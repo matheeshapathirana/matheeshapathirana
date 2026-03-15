@@ -34,7 +34,7 @@
 
 ## 🏆GitHub Trophies
 <p align="center">
-<a href="http://www.github.com/matheeshapathirana"><img src="https://github-profile-trophy.vercel.app/?username=matheeshapathirana&theme=onedark&no-frame=false&no-bg=false&margin-w=4" /></a></a></p>
+<a href="http://www.github.com/matheeshapathirana"><img src="https://trophygh.kolioaris.xyz/?username=matheeshapathirana&theme=darkhub&column=4&margin-w=15&margin-h=15" /></a></a></p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
